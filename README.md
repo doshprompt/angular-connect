@@ -1,6 +1,7 @@
-![Angular Connect 2015](https://raw.githubusercontent.com/doshprompt/angular-connect/master/angular-connect-horizontal-on-white.jpg)
+![Angular Connect 2015](https://raw.githubusercontent.com/doshprompt/angular-connect/master/angularconnect-logo-black.png)
 
-Our collective notes from [Angular Connect 2015](http://angularconnect.com/) by Seung Lim, Kashyap Patel and Rahul Doshi
+Our collective notes from [Angular Connect 2015](http://angularconnect.com/) by Seung Lim, Kashyap Patel and Rahul Doshi  
+
 **Twitter Handle:** [@AngularConnect](https://twitter.com/angularconnect)  
 **Twitter Hashtag(s):** TBA
 
