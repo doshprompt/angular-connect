@@ -3,7 +3,7 @@
 Our collective notes from [Angular Connect 2015](http://angularconnect.com/) by Seung Lim, Kashyap Patel and Rahul Doshi  
 
 **Twitter Handle:** [@AngularConnect](https://twitter.com/angularconnect)  
-**Twitter Hashtag(s):** TBA
+**Twitter Hashtag(s):** [#angularconnect](https://twitter.com/hashtag/ngeurope?src=hash)  
 
 # Day 1
 
